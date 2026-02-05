@@ -18,7 +18,7 @@ Clona el repositorio:
 git clone https://github.com/pmego/SPA-ARVEN.git
 
 - Entra al proyecto:
-cd SPA-ARVEB
+cd SPA-ARVEN
 
 - Instala dependencias:
   npm install
