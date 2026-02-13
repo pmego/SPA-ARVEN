@@ -22,10 +22,10 @@ function Footer() {
                 <div className='p-2 -ml-25 md:ml-0'>
                     <h3 className='font-semibold mb-4'>Navegación</h3>
                     <ul className='space-y-4 text-sm'>
-                        <li><Link to='nosotros' smooth={true} offset={-90} duration={1200} className="cursor-pointer">Nosotros</Link></li>
-                        <li><Link to='servicios' smooth={true} offset={-160} duration={1200} className="cursor-pointer">Servicios</Link></li>
-                        <li><Link to='valores' smooth={true} offset={-10} duration={1200} className="cursor-pointer">Valores</Link></li>
-                        <li><Link to='contacto' smooth={true} offset={-10} duration={1200} className="cursor-pointer">Contacto</Link></li>
+                        <li><Link to='nosotros' smooth={true} offset={-90} duration={1200} className="hover:text-[#F1EBDF] transition duration-700 cursor-pointer">Nosotros</Link></li>
+                        <li><Link to='servicios' smooth={true} offset={-160} duration={1200} className="hover:text-[#F1EBDF] transition duration-700 cursor-pointer">Servicios</Link></li>
+                        <li><Link to='valores' smooth={true} offset={-10} duration={1200} className="hover:text-[#F1EBDF] transition duration-700 cursor-pointer">Valores</Link></li>
+                        <li><Link to='contacto' smooth={true} offset={-10} duration={1200} className="hover:text-[#F1EBDF] transition duration-700 cursor-pointer">Contacto</Link></li>
                     </ul>
                 </div>
 
@@ -33,12 +33,12 @@ function Footer() {
                 <div className='p-2 -ml-2 md:ml-0'>
                     <h3 className='font-semibold mb-4'>Servicios</h3>
                     <ul className='space-y-2 text-sm'>
-                        <li><Link to='arquitectura' smooth={true} offset={-90} duration={1200} className="cursor-pointer">Diseño de Interiores</Link></li>
-                        <li><Link to='ingenieria' smooth={true} offset={-85} duration={1200} className="cursor-pointer">Arquitectura Residencial</Link></li>
-                        <li><Link to='tecnologia' smooth={true} offset={-90} duration={1200} className="cursor-pointer">Regularización de Edificación</Link></li>
-                        <li><Link to='telecomunicaciones' smooth={true} offset={-90} duration={1200} className="cursor-pointer">Licencia de Funcionamiento</Link></li>
-                        <li><Link to='videovigilancia' smooth={true} offset={-100} duration={1200} className="cursor-pointer">Declaratoría de Fábrica</Link></li>
-                        <li><Link to='consultoria' smooth={true} offset={-100} duration={1200} className="cursor-pointer">Independización de Predios</Link></li>
+                        <li><Link to='arquitectura' smooth={true} offset={-90} duration={1200} className="hover:text-[#F1EBDF] transition duration-700 cursor-pointer">Diseño de Interiores</Link></li>
+                        <li><Link to='ingenieria' smooth={true} offset={-85} duration={1200} className="hover:text-[#F1EBDF] transition duration-700 cursor-pointer">Arquitectura Residencial</Link></li>
+                        <li><Link to='tecnologia' smooth={true} offset={-90} duration={1200} className="hover:text-[#F1EBDF] transition duration-700 cursor-pointer">Regularización de Edificación</Link></li>
+                        <li><Link to='telecomunicaciones' smooth={true} offset={-90} duration={1200} className="hover:text-[#F1EBDF] transition duration-700 cursor-pointer">Licencia de Funcionamiento</Link></li>
+                        <li><Link to='videovigilancia' smooth={true} offset={-100} duration={1200} className="hover:text-[#F1EBDF] transition duration-700 cursor-pointer">Declaratoría de Fábrica</Link></li>
+                        <li><Link to='consultoria' smooth={true} offset={-100} duration={1200} className="hover:text-[#F1EBDF] transition duration-700 cursor-pointer">Independización de Predios</Link></li>
                     </ul>
                 </div>
 
@@ -46,7 +46,7 @@ function Footer() {
                 <div className='p-2'>
                     <h3 className='font-semibold mb-4'>Información</h3>
                     <ul className='space-y-3 text-sm'>
-                        <li className='flex items-center gap-2'><FaPhoneAlt />991746659</li>
+                        <li className='flex items-center gap-2'><FaPhoneAlt />+51 944 195 269</li>
                         <li className='flex items-center gap-2'><FaEnvelope />arvenstudio7@gmail.com</li>
                         <li className='flex items-center gap-2'><FaMapMarkedAlt />Av. Aviación 2405 Piso 10</li>
                     </ul>
@@ -75,7 +75,7 @@ function Footer() {
                         </a>
 
                         <a
-                            href="https://wa.me/51991746659"
+                            href="https://wa.me/51944195269"
                             target='_blank'
                         >
                             <FaWhatsapp className='cursor-pointer hover:scale-110 transition-all duration-300' />

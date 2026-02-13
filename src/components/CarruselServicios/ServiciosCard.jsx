@@ -33,7 +33,7 @@ function ServiciosCard({ title, image, items }) {
                     ))}
                 </ul>
                 <a
-                    href="https://wa.me/51991746659"
+                    href="https://wa.me/51944195269"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="mt-6 inline-flex items-center gap-2 font-bold bg-primary text-white px-4 py-2 rounded-full text-xs hover:bg-[#72564B] transition duration-500 cursor-pointer"

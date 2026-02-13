@@ -3,7 +3,7 @@ import { FaWhatsapp } from 'react-icons/fa';
 function WspBoton() {
     return (
         <a
-            href="https://wa.me/51991746659"
+            href="https://wa.me/51944195269"
             target='_blank'
             rel='noopener noreferrer'
             className="

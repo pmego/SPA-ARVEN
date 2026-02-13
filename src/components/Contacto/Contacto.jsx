@@ -25,11 +25,11 @@ function Contacto() {
                 {/* DATOS DEL CONTACTO */}
                 <div className='space-y-4 p-4'>
                     <div className='flex items-center gap-4'>
-                        <a href="https://wa.me/991746659" target='_blank' className='cursor-pointer w-10 hover:scale-110 transition duration-500'><img src={wspBrown} alt='logo whatsapp' /></a>
+                        <a href="https://wa.me/51944195269" target='_blank' className='cursor-pointer w-10 hover:scale-110 transition duration-500'><img src={wspBrown} alt='logo whatsapp' /></a>
 
                         <div>
                             <p className='text-base text-primary'>Número de telefono</p>
-                            <p className='font-medium text-gray-700'>991746659</p>
+                            <p className='font-medium text-gray-700'>+51 944 195 269</p>
                         </div>
                     </div>
 

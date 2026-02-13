@@ -76,7 +76,7 @@ function Hero() {
                                 garantizando viabilidad municipal y registral
                             </p>
                             <a
-                                href="https://wa.me/51991746659"
+                                href="https://wa.me/51944195269"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="mt-6 flex w-fit items-center gap-3 rounded-full bg-[#91766D] px-6 py-3 font-extrabold tracking-widest text-white transition duration-500 hover:scale-105 cursor-pointer"
